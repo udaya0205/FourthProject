@@ -12,6 +12,7 @@ public class FirstProject {
 	@Test 
 	
 	public void LoadUrlAddress() {
+		Thread.sleep(2000);
 		System.out.println("load url address");
 		
 		}
