@@ -5,7 +5,6 @@ import org.testng.annotations.Test;
 public class FirstProject {
 	@Test
 	public void Browserlaunch() {
-		Thread.sleep(2000);
 		System.out.println("launch the browser");
 		
 		}
